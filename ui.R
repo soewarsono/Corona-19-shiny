@@ -16,6 +16,7 @@ shinyUI(fluidPage(
       checkboxInput("cDenmark", "Denmark", FALSE),
       checkboxInput("cFrance", "France", FALSE),
       checkboxInput("cGermany", "Germany", TRUE),
+      checkboxInput("cIndonesia", "Indonesia", FALSE),
       checkboxInput("cIran", "Iran", FALSE),
       checkboxInput("cIsrael", "Israel", FALSE),
       checkboxInput("cItaly", "Italy", FALSE),
